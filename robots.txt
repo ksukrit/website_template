@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ksukrit.github.io/al-folio/sitemap.xml
+Sitemap: https://ksukrit.github.io/website_template/sitemap.xml
